@@ -3,6 +3,7 @@
 A mini podcast episode generator that takes a topic, generates a two-host dialogue script using an LLM, converts it to audio via Gemini TTS, and lets users play back the final episode — all orchestrated through Inngest background jobs.
 ## Architecture
 ```
+
 User enters topic
         │
         ▼
