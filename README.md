@@ -10,7 +10,7 @@ User enters topic
         ▼
   POST /api/episodes
   ├─ Creates episode record in Supabase (status: pending)
-  └─ Sends "episode/generate.requested" event to Inngest updated also
+  └─ Sends "episode/generate.requested" event to Inngest updated also st
         │
         ▼
   ┌─────────────────────────────────────────────┐
